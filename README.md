@@ -1,1 +1,1 @@
-# Handwriting_Detection_System
+# Handwriting_Recognition_System
